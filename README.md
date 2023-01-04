@@ -14,4 +14,5 @@ constant. We can list the generic tasks as below:
 4. Pack your bag (Keep only appropriate books for the day)
 5. Cook breakfast and lunch
 6. Iron the clothes
+
 From now on a Kotlin Robot will complete the above set of tasks for us.
