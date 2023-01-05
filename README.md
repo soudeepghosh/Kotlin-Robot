@@ -1,6 +1,8 @@
 # Kotlin-Robot
 Internshala Kotlin Assignment:
 
+Problem Statement:
+
 In our day-to-day life, we come across various problems that can be solved with the help of
 programming. We will try to solve a similar problem with the help of Kotlin programming and
 your problem-solving skills.
